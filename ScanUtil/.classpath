@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="S:/working/Takira-Work/Scan-feature/browserWebScanning/Signed Jar&apos;s/ij.jar"/>
+	<classpathentry kind="lib" path="S:/working/Takira-Work/Scan-feature/browserWebScanning/Signed Jar&apos;s/plugin.jar"/>
+	<classpathentry kind="lib" path="S:/working/Takira-Work/Scan-feature/browserWebScanning/Signed Jar&apos;s/twain.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/skype"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
